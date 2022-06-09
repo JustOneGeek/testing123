@@ -219,7 +219,7 @@ export default function MiniDrawer({children}) {
             </ListItem>
           ))}
           <ListItem button key={"Social"}>
-              <RegLink href="http://google.com" color="inherit" underline="none" sx={{display:"flex"}}>
+              <RegLink href="/index" color="inherit" underline="none" sx={{display:"flex"}}>
                 <ListItemIcon>
                   <ConnectWithoutContactIcon style={{color:'white'}}/>
                 </ListItemIcon>
